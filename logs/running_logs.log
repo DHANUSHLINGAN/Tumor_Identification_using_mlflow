@@ -1,0 +1,17 @@
+[2024-07-11 15:26:16,735: INFO: main: Welcome to AIFab50]
+[2024-07-11 15:56:05,012: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-11 15:56:05,016: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-11 15:56:05,017: INFO: common: created directory at: artifacts]
+[2024-07-11 15:56:05,018: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-11 15:56:05,019: INFO: 986331348: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-07-11 15:57:16,101: INFO: 986331348: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-07-11 15:58:28,462: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-11 15:58:28,465: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-11 15:58:28,465: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-11 15:58:28,465: INFO: common: created directory at: artifacts]
+[2024-07-11 15:58:28,466: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-11 15:58:28,466: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-07-11 15:59:10,082: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-07-11 15:59:10,545: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]

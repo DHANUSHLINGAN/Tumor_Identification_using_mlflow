@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/DHANUSHLINGAN/Tumor_Identification_using_mlflow
+Author: DHANUSHLINGAN
+Author-email: dhanushanandan12@gmail.com
+Project-URL: Bug Tracker, https://github.com/DHANUSHLINGAN/Tumor_Identification_using_mlflow/issues
+
+# Tumor_Identification_using_mlflow
+end to end mlops project with mlflow
